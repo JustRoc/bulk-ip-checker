@@ -17,7 +17,6 @@ I needed a quick way to get reputation data for a bunch of IPs without having to
         ```
         VIRUSTOTAL_API_KEY="YOUR_VIRUSTOTAL_API_KEY"
         ABUSEIPDB_API_KEY="YOUR_ABUSEIPDB_API_KEY"
-        
         ```
     **Future plan** 
     I will implement API key encryption soon (idk if it's actually useful tho. it's just for fun)
