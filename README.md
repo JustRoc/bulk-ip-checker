@@ -33,7 +33,6 @@ I needed a quick way to get reputation data for a bunch of IPs without having to
     8.8.8.8
     1.1.1.1
     123.123.123.123
-
     ```
 
 2.  Run the script from your terminal and give it the path to your file.
